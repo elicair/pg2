@@ -1,39 +1,47 @@
 # ol-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page 1</title>
+    <title>Image and Table Page</title>
     <style>
-
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj8VKyfpCLBfZlragQXP_VnDNDP4mhTJcgw&s" alt="leather" width="500" height="300">
-        nav ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            background-color: #333;
-        }
-        nav li {
-            float: left;
-        }
-        nav li a {
-            display: block;
-            color: white;
+        body {
+            font-family: sans-serif;
             text-align: center;
-            padding: 14px 16px;
+            margin: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #333;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 50%;
+            margin: 0 auto 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .home-button {
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
             text-decoration: none;
-        }
-        nav li a:hover {
-            background-color: #111;
-        }
-        .active {
-            background-color: #04AA6D;
+            border-radius: 5px;
         }
     </style>
 </head>
 <body>
+
 
     <header>
         <h1>Welcome to Page 1</h1>
@@ -77,9 +85,8 @@
         <p> Here at leather works we offer many diffrent leather goods.</p>
     </main>
 
-    <footer>
-        <p>&copy; 2025 leather</p>
-    </footer>
+        <a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
+
 
 </body>
 </html>
