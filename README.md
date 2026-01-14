@@ -47,16 +47,7 @@
         <h1>Welcome to Page 1</h1>
     </header>
 
-    <nav>
-        <ul>
-            <li><a href="https://elicair.github.io/expir/">Home</a></li>
-            <li><a href="https://elicair.github.io/kys/">Page 1</a></li>
-            <li><a class="active" href="page1.html">Page 1</a></li>
-            <li><a href="page3.html">Page 3</a></li>
-            <li><a href="page4.html">Page 4</a></li>
-            <li><a href="page5.html">Page 5</a></li>
-        </ul>
-    </nav>
+
 <ol>
     <li>our products</li>
     <li>leather gloves </li>
