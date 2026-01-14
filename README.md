@@ -66,7 +66,7 @@
 <li>Our leather jacket sizing</li>
 <ol>
 <li>Medium</li>
-<li> large</li>
+<li>large</li>
 <ul>
 <li>xl</li>
 <li>xxl</li>
