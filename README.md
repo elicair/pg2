@@ -52,42 +52,37 @@
     </style>
 </head>
 <body>
-
-
-    <header>
-        <h1>product</h1>
-    </header>
-
-
+ <header>
+<h1>product</h1>
+</header>
 <ol>
-    <li>our products</li>
-    <li>leather gloves </li>
-    <li>leathe apron</li>
-    <li>leather cap</li>
+<li>our products</li>
+<li>Leather gloves </li>
+<li>Leather apron</li>
+<li>Leather cap</li>
 </ol>
 
 <ul>
-    <li>our leather jacket sizing
-        <ol>
-            <li>medium</li>
-            <li> large
-           <ul>
-                    <li>xl</li>
-                    <li>xxl</li>
-                </ul>
-            </li>
-            <li>leather chaps sizing</li>
-        </ol>
-    </li>
-    <li>medium</li>
-    <li>large</li>
-    <li>extra large</li>
+<li>Our leather jacket sizing</li>
+<ol>
+<li>Medium</li>
+<li> large</li>
+<ul>
+<li>xl</li>
+<li>xxl</li>
 </ul>
-    <main>
-        <p> Here at leather works we offer many diffrent leather goods.</p>
-    </main>
-
-        <a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
+</li>
+<li>Leather chaps sizing</li>
+</ol>
+</li>
+<li>Medium</li>
+<li>Large</li>
+<li>Extra large</li>
+</ul>
+<main>
+<p> Here at leather works we offer many diffrent leather goods.</p>
+</main>
+<a href="https://elicair.github.io/expir/" class="home-button">Go to Home Page</a>
 
 
 </body>
