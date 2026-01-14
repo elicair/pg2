@@ -1,5 +1,5 @@
 # ol-
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,12 +51,7 @@
     </nav>
 <ol>
     <li>our products</li>
-    <li>leather gloves
-        <ul>
-            <li>small</li>
-            <li>large</li>
-        </ul>
-    </li>
+    <li>leather gloves </li>
     <li>leathe apron</li>
     <li>leather cap</li>
 </ol>
