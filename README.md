@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Page 1</title>
     <style>
-        /* Reusing the same simple CSS from index.html for consistency */
+
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj8VKyfpCLBfZlragQXP_VnDNDP4mhTJcgw&s" alt="leather" width="500" height="300">
         nav ul {
             list-style-type: none;
             margin: 0;
@@ -48,13 +49,41 @@
             <li><a href="page5.html">Page 5</a></li>
         </ul>
     </nav>
+<ol>
+    <li>our products</li>
+    <li>leather gloves
+        <ul>
+            <li>small</li>
+            <li>large</li>
+        </ul>
+    </li>
+    <li>leathe apron</li>
+    <li>leather cap</li>
+</ol>
 
+<ul>
+    <li>our leather jacket sizing
+        <ol>
+            <li>medium</li>
+            <li> large
+           <ul>
+                    <li>xl</li>
+                    <li>xxl</li>
+                </ul>
+            </li>
+            <li>leather chaps sizing</li>
+        </ol>
+    </li>
+    <li>medium</li>
+    <li>large</li>
+    <li>extra large</li>
+</ul>
     <main>
-        <p>This is the content for Page 1. Each page uses the same navigation structure.</p>
+        <p> Here at leather works we offer many diffrent leather goods.</p>
     </main>
 
     <footer>
-        <p>&copy; 2025 My Website</p>
+        <p>&copy; 2025 leather</p>
     </footer>
 
 </body>
