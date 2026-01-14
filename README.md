@@ -10,11 +10,22 @@
             text-align: center;
             margin: 20px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 2px solid #333;
-            margin-bottom: 20px;
+   
+        body {
+         
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpWDC6NyZlsisz6SD7wPWnxSN0yNFGPIgoQ&s'); 
+            background-size: cover; 
+            background-position: center; 
+            background-repeat: no-repeat; 
+            background-attachment: fixed; 
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            color: white; 
+            font-family: sans-serif;
         }
         table {
             width: 50%;
@@ -44,7 +55,7 @@
 
 
     <header>
-        <h1>Welcome to Page 1</h1>
+        <h1>product</h1>
     </header>
 
 
