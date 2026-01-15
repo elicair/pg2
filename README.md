@@ -71,10 +71,8 @@
 <li>xl</li>
 <li>xxl</li>
 </ul>
-</li>
 <li>Leather chaps sizing</li>
 </ol>
-</li>
 <li>Medium</li>
 <li>Large</li>
 <li>Extra large</li>
